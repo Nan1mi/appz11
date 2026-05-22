@@ -1,0 +1,7 @@
+C:\Users\malyt\source\repos\OnlineTest\OnlineTest\bin\Debug\OnlineTest.exe.config
+C:\Users\malyt\source\repos\OnlineTest\OnlineTest\bin\Debug\OnlineTest.exe
+C:\Users\malyt\source\repos\OnlineTest\OnlineTest\bin\Debug\OnlineTest.pdb
+C:\Users\malyt\source\repos\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.AssemblyReference.cache
+C:\Users\malyt\source\repos\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CoreCompileInputs.cache
+C:\Users\malyt\source\repos\OnlineTest\OnlineTest\obj\Debug\OnlineTest.exe
+C:\Users\malyt\source\repos\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
